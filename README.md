@@ -1,13 +1,81 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharan</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | AWS</h3>
 
-- 📫 How to reach me **aman4priyanshu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-sharan-a819571a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-sharan-a819571a0/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/priyanshusharan2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/priyanshusharan2000/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:aman4priyanshu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aman4priyanshu%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-sharan-a819571a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Sharan-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/u/priyanshusharan2000/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Backend Developer with **2+ years of experience**
+- 🔭 Currently working on **Spring Boot Microservices & Scalable REST APIs**
+- 🌱 Exploring **System Design & Cloud Architecture**
+- 💡 Strong in **Java, Data Structures & Problem Solving**
+- 🇮🇳 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### 🧪 Testing & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,selenium" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 What I Focus On
+
+✔️ Building scalable backend systems  
+✔️ Writing clean & maintainable code  
+✔️ REST API Design & Security  
+✔️ Database Optimization  
+✔️ CI/CD & Containerization  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **aman4priyanshu@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-sharan-a819571a0/
+- 🧠 LeetCode: https://leetcode.com/u/priyanshusharan2000/
+
+---
+
+<p align="center">
+⭐️ From Priyanshu Sharan | Java Backend Developer
+</p>
